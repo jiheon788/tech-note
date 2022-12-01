@@ -9,7 +9,7 @@
 
 ## 📑 INDEX
 
-1. [JAVASCRIPT](./1.JAVASCRIPT.md)
+1. [JavaScript](./1.JAVASCRIPT.md)
 
 ## 🔍 REFERENCE
 
