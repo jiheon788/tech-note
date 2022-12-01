@@ -12,7 +12,18 @@
 1. [JavaScript](./1.JAVASCRIPT.md)
 2. [Network](./2.NETWORK.md)
 
-## 📝 CONVENTION
+```markdown
+# todos
+
+0. About Me
+1. Data Structure
+2. Algorithm
+3. Operating System
+4. Git & GitHub
+5. Dev
+```
+
+## 📝 WRITING CONVENTION
 
 #### 인덱스
 
