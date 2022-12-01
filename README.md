@@ -2,7 +2,7 @@
 
 프론트엔드 기술면접 대비 개인 정리노트 _by jiheon788_
 
-## 📃 INDEX
+## 📑 INDEX
 
 1. [JAVASCRIPT](./1.JAVASCRIPT.md)
 
@@ -11,7 +11,7 @@
 - [Hayeon Dev Blog: 프론트엔드 취준 기록](https://hayeondev.gatsbyjs.io/220610-2022-recruit/)
 - [Front End Interview Handbook: JavaScript 질문](https://www.frontendinterviewhandbook.com/kr/javascript-questions)
 
-## 🤙 CONVENTION
+## 📝 CONVENTION
 
 #### 인덱스
 
