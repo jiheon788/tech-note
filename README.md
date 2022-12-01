@@ -1,7 +1,7 @@
 # 👨‍🏫 TECH-INTERVIEW-NOTE
 
 > If you can\`t explain it simply, you don\`t understand it well enough.  
--Albert Einstein(1879 - 1955)
+> -Albert Einstein(1879 - 1955)
 
 ### 프론트엔드 기술면접 대비 개인 정리노트 _by jiheon788_
 
@@ -10,11 +10,7 @@
 ## 📑 INDEX
 
 1. [JavaScript](./1.JAVASCRIPT.md)
-
-## 🔍 REFERENCE
-
-- [Hayeon Dev Blog: 프론트엔드 취준 기록](https://hayeondev.gatsbyjs.io/220610-2022-recruit/)
-- [Front End Interview Handbook: JavaScript 질문](https://www.frontendinterviewhandbook.com/kr/javascript-questions)
+2. [Network](./2.NETWORK.md)
 
 ## 📝 CONVENTION
 
@@ -31,5 +27,11 @@
 
 Descripton...
 
-<div align="right">CreatedAt {yyyy.mm.dd}</div>
+<div align="right">- CreatedAt {yyyy.mm.dd}</div>
 ```
+
+## 🔍 REFERENCE
+
+- [Hayeon Dev Blog: 프론트엔드 취준 기록](https://hayeondev.gatsbyjs.io/220610-2022-recruit/)
+- [Front End Interview Handbook: JavaScript 질문](https://www.frontendinterviewhandbook.com/kr/javascript-questions)
+- "모두의 네트워크", 미즈구치 카츠야, 길벗
