@@ -1,6 +1,11 @@
-# 👨‍🏫 TECH-INTERVIEW
+# 👨‍🏫 TECH-INTERVIEW-NOTE
 
-프론트엔드 기술면접 대비 개인 정리노트 _by jiheon788_
+> If you can\`t explain it simply, you don\`t understand it well enough.  
+-Albert Einstein(1879 - 1955)
+
+### 프론트엔드 기술면접 대비 개인 정리노트 _by jiheon788_
+
+남에게 쉽게 설명할 수 있어야 저의 진짜 지식이라 생각합니다. 개인적으로 공부한 내용들을 정리하는 노트입니다.
 
 ## 📑 INDEX
 
