@@ -3,7 +3,7 @@
 </div>
 <blockquote align="center">
     If you can`t explain it simply, you don`t understand it well enough.<br>
-    -Albert Einstein(1879 - 1955)
+    - Albert Einstein (1879 - 1955)
 </blockquote>
   
   
