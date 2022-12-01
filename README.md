@@ -26,5 +26,5 @@
 
 Descripton...
 
-<div style="text-align: right">CreatedAt {yyyy.mm.dd}</div>
+<div align="right">CreatedAt {yyyy.mm.dd}</div>
 ```
