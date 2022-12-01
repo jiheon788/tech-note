@@ -1,11 +1,13 @@
 <div align='center'>
   <img src="https://user-images.githubusercontent.com/90181028/205127418-6e0293b1-f9d3-4a6e-a44e-4cd176986f1c.png" width="200px" alt="img">
 </div>
-
+<blockquote align="center">
+    If you can`t explain it simply, you don`t understand it well enough.<br>
+    -Albert Einstein(1879 - 1955)
+</blockquote>
+  
+  
 # 🏛 KNOWLEDGE-ARCHIVE _by jiheon788_
-
-> If you can\`t explain it simply, you don\`t understand it well enough.  
-> -Albert Einstein(1879 - 1955)
 
 남에게 쉽게 설명할 수 있어야 저의 진짜 지식이라 생각합니다. 개인적으로 공부한 내용들을 정리하는 노트입니다.
 
