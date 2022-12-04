@@ -49,4 +49,6 @@ Descripton...
 - [Front End Interview Handbook: JavaScript 질문](https://www.frontendinterviewhandbook.com/kr/javascript-questions)
 - [Hayeon Dev Blog: 프론트엔드 취준 기록](https://hayeondev.gatsbyjs.io/220610-2022-recruit/)
 - [JavaScript Visualized: Event Loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
-- "모두의 네트워크", 미즈구치 카츠야, 길벗
+- [프론트엔드 면접 문제 은행](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/korean/)
+- [fe 면접 유용한 사이트 모음](https://xiubindev.tistory.com/120)
+- (도서) "모두의 네트워크", 미즈구치 카츠야, 길벗
