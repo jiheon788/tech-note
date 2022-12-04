@@ -14,14 +14,15 @@
 
 1. [JavaScript](./1.JAVASCRIPT.md)
 2. [Network](./2.NETWORK.md)
+3. [DataStructure](./3.DATASTRUCTURE.md)
 
 ```markdown
 # todos
-1. Data Structure
-2. Algorithm
-3. Operating System
-4. Git & GitHub
-5. Dev
+
+4. Algorithm
+5. Operating System
+6. Git & GitHub
+7. Dev
 ```
 
 ## 📝 WRITING CONVENTION
