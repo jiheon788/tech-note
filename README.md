@@ -6,11 +6,13 @@
     - Albert Einstein (1879 - 1955)
 </blockquote>
   
-  
+  <br>
+
 # 🏛 KNOWLEDGE-ARCHIVE
+
 남에게 쉽게 설명할 수 있어야 저의 진짜 지식이라 생각합니다. 개인적으로 공부한 내용들을 정리하는 노트입니다.
 
-## 📑 INDEX
+# 📑 INDEX
 
 1. [JavaScript](./1.JAVASCRIPT.md)
 2. [Network](./2.NETWORK.md)
@@ -25,25 +27,24 @@
 7. Dev
 ```
 
-## 📝 WRITING CONVENTION
+# 📝 WRITING CONVENTION
 
-#### 인덱스
-
-```
-1. [Title 이란?](#title-이란)
-```
-
-#### 본문작성
-
-```
+```md
 ## Title 이란?
 
-Descripton...
+...Descripton...
+
+#### Reference
+
+- [www.google.com](www.google.com)
 
 <div align="right">- CreatedAt {yyyy.mm.dd}</div>
+<div align="right">- UpdatedAt {yyyy.mm.dd}</div>
+
+---
 ```
 
-## 🔍 REFERENCE
+# 🔍 REFERENCE
 
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
 - [Front End Interview Handbook: JavaScript 질문](https://www.frontendinterviewhandbook.com/kr/javascript-questions)
