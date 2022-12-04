@@ -8,8 +8,6 @@
   
   
 # 🏛 KNOWLEDGE-ARCHIVE
-Author: @jiheon788
-
 남에게 쉽게 설명할 수 있어야 저의 진짜 지식이라 생각합니다. 개인적으로 공부한 내용들을 정리하는 노트입니다.
 
 ## 📑 INDEX
@@ -19,8 +17,6 @@ Author: @jiheon788
 
 ```markdown
 # todos
-
-0. About Me
 1. Data Structure
 2. Algorithm
 3. Operating System
