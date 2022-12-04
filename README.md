@@ -45,6 +45,7 @@ Descripton...
 
 ## 🔍 REFERENCE
 
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
 - [Front End Interview Handbook: JavaScript 질문](https://www.frontendinterviewhandbook.com/kr/javascript-questions)
 - [Hayeon Dev Blog: 프론트엔드 취준 기록](https://hayeondev.gatsbyjs.io/220610-2022-recruit/)
 - [JavaScript Visualized: Event Loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
