@@ -24,7 +24,6 @@
 4. Algorithm
 5. Operating System
 6. Git & GitHub
-7. Dev
 ```
 
 # 📝 WRITING CONVENTION
