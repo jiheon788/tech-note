@@ -89,6 +89,10 @@ Token을 가져온 후 빈 값을 체크한다. 만약 Token이 존재하지 않
 
 ## cookie
 
+- 세션 ID 관리, 서버에 저장해야 할 민감한 정보에 대한 식별자 ID
+- 개인화, 사용자 선호 및 테마
+- 트래킹, 사용자 행동 기록 및 분석
+
 > JWT를 저장하기 위해서 클라이언트의 쿠키에 저장하는 것은 XSS공격에 취약합니다. 만약 앱 외부의 Javascript에서 클라이언트에서 읽을 수 있는 경우 도난 당할 수 있습니다. ex : 다른 웹페이지에서 해당 쿠키를 가져오려고 시도하는 경우! .. 또한 쿠키는 [CSRF공격](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)에도 취약합니다. 쿠키를 사용하기 위해서는 그만큼 완화 전략이 필요합니다. (방어능력) ServerSide같은 경우 조금 더 안전함.
 
 쿠키는 데이터를 4KB까지 저장하는 HTTP 통신의 무상태성을 보안해주기 위해 나온 공간이다. 쿠키의 특징은 타음과 같다.
@@ -131,6 +135,8 @@ Token을 가져온 후 빈 값을 체크한다. 만약 Token이 존재하지 않
 
 ## sessionStorage사용
 
+- 민감한 정보 관리, 사용자의 비밀번호 및 개인정보
+- 
 > localStorage와 비슷하지만 유효기간 설정이 가능하고, 브라우저가 종료되면 사라진다.
 
 ### refreshToken을 사용하는 이유
