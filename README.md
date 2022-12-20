@@ -10,11 +10,11 @@
 
 # 🏛 KNOWLEDGE-ARCHIVE
 
-## 📢 INTRODUCTION
+## INTRODUCTION
 
 남에게 쉽게 설명할 수 있어야 저의 진짜 지식이라 생각합니다. 개인적으로 공부한 내용들을 정리하는 노트입니다.
 
-## 📑 INDEX
+## INDEX
 
 ### 👨‍💻 Dev
 
@@ -37,7 +37,7 @@
 - [CDN이란?](./network/cdn.md)
 - [REST API란?](./network/rest-api.md)
 
-### 💾 DataStructure
+### 💾 Data Structure
 
 - [linked-list](./datastructure/linked-list.md)
 - [doubly-linked-list](./datastructure/doubly-linked-list.md)
@@ -45,6 +45,12 @@
 - [queue](./datastructure/queue.md)
 - [stack](./datastructure/stack.md)
 - [tree](./datastructure/tree.md)
+
+### 🦧 Algorithms
+
+### 💻 Operating System
+
+### 🏠 Database
 
 ---
 
