@@ -40,11 +40,11 @@ jwt.sign(
 
 정상적으로 데이터를 인코딩하면 다음과 같이 만들어진다.
 
-<aside>
-💡 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
-</aside>
+```
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
+```
+![Untitled](https://user-images.githubusercontent.com/90181028/208652724-74e049db-cfff-41fc-bd05-dc54de33e858.png)
 
-![Untitled](./Untitled.png)
 
 빨간색 부분은 HEADER로 HS256으로 이루어진 JWT라는 것을 알려주고 있다. 분홍색 부분은 `PAYLOAD`로 서명을 위해 직접 넣은 데이터 이다. 파란색 부분은 `VERIFY SIGNATURE`로 서명을 확인하기 위해 사용되는 부분이다. 중간에 존재하는 `your-256-bit-secret`은 서버에서 서명을 해준 뒤 비밀 값을 넣어준다.
 
