@@ -10,14 +10,12 @@
 
 # 🏛 KNOWLEDGE-ARCHIVE
 
-남에게 쉽게 설명할 수 있어야 저의 진짜 지식이라 생각합니다. 개인적으로 공부한 내용들을 정리하는 노트입니다.
+## 📑 INDEX
 
-# 📑 INDEX
-
+0. [Dev](./dev/README.md)
 1. [JavaScript](./javascript/README.md)
 2. [Network](./network/README.md)
 3. [DataStructure](./datastructure/README.md)
-4. [Dev](./dev/README.md)
 
 ```
 # todos
@@ -27,26 +25,42 @@
 6. Git & GitHub
 ```
 
-#### 📝 WRITING CONVENTION
+## 📢 INTRODUCTION
 
-```md
-# Title 이란?
+남에게 쉽게 설명할 수 있어야 저의 진짜 지식이라 생각합니다. 개인적으로 공부한 내용들을 정리하는 노트입니다.
 
-...Descripton...
+## 👨‍💻 Dev
 
-#### Reference
+- [Node.js란?](./dev/nodejs.md)
+- [프론트엔드의 아키텍쳐?](./dev/architecture.md)
+- [CI/CD 이란?](./dev/ci-cd.md)
 
-- [www.google.com](www.google.com)
+## 🐛 JavaScript
 
-<div align="right">- CreatedAt yyyy.mm.dd</div>
-<div align="right">- UpdatedAt yyyy.mm.dd</div>
+- [this가 자바스크립트에서 어떻게 작동하는가?](./javascript/this.md)
+- [hoisting 이란?](./javascript/hoisting.md)
+- [Event Loop 이란?](./javascript/event-loop.md)
+- [분해할당 이란?](./javascript/destructuring-assignment.md)
+
+## 🌐 Network
+
+- [OSI 7 Layer & TCP/IP 4 Layer?](./network/osi-7-layer-tcpip-4-layer.md)
+- [HTTP & HTTPS](./network/http-https.md)
+- [CDN이란?](./network/cdn.md)
+- [REST API란?](./network/rest-api.md)
+
+## 💾 DataStructure
+
+- [linked-list](./datastructure/linked-list.md)
+- [doubly-linked-list](./datastructure/doubly-linked-list.md)
+- [hash-table](./datastructure/hash-table.md)
+- [queue](./datastructure/queue.md)
+- [stack](./datastructure/stack.md)
+- [tree](./datastructure/tree.md)
 
 ---
 
-[Back](./README.md)
-```
-
-#### 🔍 REFERENCE
+## 🔍 REFERENCE
 
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
 - [Front End Interview Handbook: JavaScript 질문](https://www.frontendinterviewhandbook.com/kr/javascript-questions)
