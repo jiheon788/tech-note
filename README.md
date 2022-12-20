@@ -19,7 +19,7 @@
 3. [DataStructure](./datastructure/README.md)
 4. [Dev](./dev/README.md)
 
-```markdown
+```
 # todos
 
 4. Algorithm
@@ -27,7 +27,7 @@
 6. Git & GitHub
 ```
 
-# 📝 WRITING CONVENTION
+#### 📝 WRITING CONVENTION
 
 ```md
 # Title 이란?
@@ -46,7 +46,7 @@
 [Back](./README.md)
 ```
 
-# 🔍 REFERENCE
+#### 🔍 REFERENCE
 
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
 - [Front End Interview Handbook: JavaScript 질문](https://www.frontendinterviewhandbook.com/kr/javascript-questions)
