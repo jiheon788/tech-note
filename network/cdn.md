@@ -35,4 +35,4 @@ CDN은 여러 지역에 두어 사용한다. 비유를 하면 본사가아니라
 
 ---
 
-[Back](./README.md)
+[Back](../README.md)

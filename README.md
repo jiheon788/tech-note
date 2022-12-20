@@ -12,10 +12,10 @@
 
 ## 📑 INDEX
 
-0. [Dev](./dev/README.md)
-1. [JavaScript](./javascript/README.md)
-2. [Network](./network/README.md)
-3. [DataStructure](./datastructure/README.md)
+0. [Dev](./dev)
+1. [JavaScript](./javascript)
+2. [Network](./network)
+3. [DataStructure](./datastructure)
 
 ```
 # todos

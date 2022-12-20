@@ -34,4 +34,5 @@ node1.next = node2;
 <div align="right">- CreatedAt 2022.12.04</div>
 
 ---
-[Back](./README.md)
+
+[Back](../README.md)

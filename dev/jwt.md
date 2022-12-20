@@ -161,4 +161,4 @@ Token을 가져온 후 빈 값을 체크한다. 만약 Token이 존재하지 않
 
 ---
 
-[Back](./README.md)
+[Back](../README.md)

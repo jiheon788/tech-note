@@ -21,4 +21,4 @@ CI/CD의 대표적인 서비스로 Jenkins, Travis CI, Circle CI 등이 있다.
 
 ---
 
-[Back](./README.md)
+[Back](../README.md)

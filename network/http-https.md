@@ -61,4 +61,4 @@ HTTP는 암호화 과정이 없기에 보안 취약하지만 속도가 빠르다
 
 ---
 
-[Back](./README.md)
+[Back](../README.md)

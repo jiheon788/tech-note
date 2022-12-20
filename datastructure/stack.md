@@ -29,4 +29,4 @@ stack.pop(); // 1
 
 ---
 
-[Back](./README.md)
+[Back](../README.md)

@@ -41,4 +41,4 @@ console.log(q); // true
 
 ---
 
-[Back](./README.md)
+[Back](../README.md)

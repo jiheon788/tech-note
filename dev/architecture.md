@@ -113,4 +113,4 @@ Props Drilling Problem이 문제라면 새로운 개념을 만들기보다 props
 
 ---
 
-[Back](./README.md)
+[Back](../README.md)

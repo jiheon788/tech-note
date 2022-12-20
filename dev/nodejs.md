@@ -59,4 +59,4 @@ Node.js는 싱글스레드, 논 블로킹 모델로 싱글 스레드가 혼자�
 
 ---
 
-[Back](./README.md)
+[Back](../README.md)

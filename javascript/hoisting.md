@@ -45,4 +45,4 @@ console.log(bar); // [Function: bar]
 
 ---
 
-[Back](./README.md)
+[Back](../README.md)

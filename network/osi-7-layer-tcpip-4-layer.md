@@ -112,4 +112,4 @@ OSI 모델은 국제표준화기구(ISO)에서 개발한 네트워크 기술의 
 
 ---
 
-[Back](./README.md)
+[Back](../README.md)

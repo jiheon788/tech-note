@@ -35,4 +35,5 @@ node2.prev = node1;
 <div align="right">- CreatedAt 2022.12.04</div>
 
 ---
-[Back](./README.md)
+
+[Back](../README.md)
