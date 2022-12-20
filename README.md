@@ -14,10 +14,10 @@
 
 # 📑 INDEX
 
-1. [JavaScript](./1.JAVASCRIPT.md)
-2. [Network](./2.NETWORK.md)
-3. [DataStructure](./3.DATASTRUCTURE.md)
-4. [Dev](./4.DEV.md)
+1. [JavaScript](./javascript/README.md)
+2. [Network](./network/README.md)
+3. [DataStructure](./datastructure/README.md)
+4. [Dev](./dev/README.md)
 
 ```markdown
 # todos
@@ -30,7 +30,7 @@
 # 📝 WRITING CONVENTION
 
 ```md
-## Title 이란?
+# Title 이란?
 
 ...Descripton...
 
@@ -42,6 +42,8 @@
 <div align="right">- UpdatedAt yyyy.mm.dd</div>
 
 ---
+
+[Back](./README.md)
 ```
 
 # 🔍 REFERENCE
