@@ -40,11 +40,11 @@ jwt.sign(
 
 정상적으로 데이터를 인코딩하면 다음과 같이 만들어진다.
 
-<aside>
-💡 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
-</aside>
+```
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
+```
+![Untitled](https://user-images.githubusercontent.com/90181028/208652724-74e049db-cfff-41fc-bd05-dc54de33e858.png)
 
-![Untitled](./Untitled.png)
 
 빨간색 부분은 HEADER로 HS256으로 이루어진 JWT라는 것을 알려주고 있다. 분홍색 부분은 `PAYLOAD`로 서명을 위해 직접 넣은 데이터 이다. 파란색 부분은 `VERIFY SIGNATURE`로 서명을 확인하기 위해 사용되는 부분이다. 중간에 존재하는 `your-256-bit-secret`은 서버에서 서명을 해준 뒤 비밀 값을 넣어준다.
 
@@ -89,6 +89,10 @@ Token을 가져온 후 빈 값을 체크한다. 만약 Token이 존재하지 않
 
 ## cookie
 
+- 세션 ID 관리, 서버에 저장해야 할 민감한 정보에 대한 식별자 ID
+- 개인화, 사용자 선호 및 테마
+- 트래킹, 사용자 행동 기록 및 분석
+
 > JWT를 저장하기 위해서 클라이언트의 쿠키에 저장하는 것은 XSS공격에 취약합니다. 만약 앱 외부의 Javascript에서 클라이언트에서 읽을 수 있는 경우 도난 당할 수 있습니다. ex : 다른 웹페이지에서 해당 쿠키를 가져오려고 시도하는 경우! .. 또한 쿠키는 [CSRF공격](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)에도 취약합니다. 쿠키를 사용하기 위해서는 그만큼 완화 전략이 필요합니다. (방어능력) ServerSide같은 경우 조금 더 안전함.
 
 쿠키는 데이터를 4KB까지 저장하는 HTTP 통신의 무상태성을 보안해주기 위해 나온 공간이다. 쿠키의 특징은 타음과 같다.
@@ -131,6 +135,8 @@ Token을 가져온 후 빈 값을 체크한다. 만약 Token이 존재하지 않
 
 ## sessionStorage사용
 
+- 민감한 정보 관리, 사용자의 비밀번호 및 개인정보
+- 
 > localStorage와 비슷하지만 유효기간 설정이 가능하고, 브라우저가 종료되면 사라진다.
 
 ### refreshToken을 사용하는 이유
