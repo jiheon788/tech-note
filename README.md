@@ -38,8 +38,8 @@
 
 - [www.google.com](www.google.com)
 
-<div align="right">- CreatedAt {yyyy.mm.dd}</div>
-<div align="right">- UpdatedAt {yyyy.mm.dd}</div>
+<div align="right">- CreatedAt yyyy.mm.dd</div>
+<div align="right">- UpdatedAt yyyy.mm.dd</div>
 
 ---
 ```
@@ -51,4 +51,6 @@
 - [Hayeon Dev Blog: 프론트엔드 취준 기록](https://hayeondev.gatsbyjs.io/220610-2022-recruit/)
 - [프론트엔드 면접 문제 은행](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/korean/)
 - [fe 면접 유용한 사이트 모음](https://xiubindev.tistory.com/120)
+- [취준생이 반드시 알아야 할 프론트엔드 지식들](https://github.com/ABizCho/Must-Know-About-Frontend)
+- [READY FOR TECH INTERVIEW](https://github.com/ABizCho/Ready-For-Tech-Interview)
 - (도서) "모두의 네트워크", 미즈구치 카츠야, 길벗
