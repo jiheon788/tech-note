@@ -10,47 +10,34 @@
 
 # 🏛 KNOWLEDGE-ARCHIVE
 
-## 📑 INDEX
-
-0. [Dev](./dev)
-1. [JavaScript](./javascript)
-2. [Network](./network)
-3. [DataStructure](./datastructure)
-
-```
-# todos
-
-4. Algorithm
-5. Operating System
-6. Git & GitHub
-```
-
 ## 📢 INTRODUCTION
 
 남에게 쉽게 설명할 수 있어야 저의 진짜 지식이라 생각합니다. 개인적으로 공부한 내용들을 정리하는 노트입니다.
 
-## 👨‍💻 Dev
+## 📑 INDEX
+
+### 👨‍💻 Dev
 
 - [Node.js란?](./dev/nodejs.md)
 - [프론트엔드의 아키텍쳐?](./dev/architecture.md)
 - [CI/CD 이란?](./dev/ci-cd.md)
 - [JWT와 쿠키, 세션, 로컬스토리지](./dev/jwt.md)
 
-## 🐛 JavaScript
+### 🐛 JavaScript
 
 - [this가 자바스크립트에서 어떻게 작동하는가?](./javascript/this.md)
 - [hoisting 이란?](./javascript/hoisting.md)
 - [Event Loop 이란?](./javascript/event-loop.md)
 - [분해할당 이란?](./javascript/destructuring-assignment.md)
 
-## 🌐 Network
+### 🌐 Network
 
 - [OSI 7 Layer & TCP/IP 4 Layer?](./network/osi-7-layer-tcpip-4-layer.md)
 - [HTTP & HTTPS](./network/http-https.md)
 - [CDN이란?](./network/cdn.md)
 - [REST API란?](./network/rest-api.md)
 
-## 💾 DataStructure
+### 💾 DataStructure
 
 - [linked-list](./datastructure/linked-list.md)
 - [doubly-linked-list](./datastructure/doubly-linked-list.md)
