@@ -48,6 +48,8 @@
 
 ### 🦧 Algorithms
 
+- [Permuation(순열)과 Combination(조합)](./algorithms/permuation-combination.md)
+
 ### 💻 Operating System
 
 ### 🏠 Database
