@@ -9,8 +9,10 @@
 - 정렬이 이미 되어있는 경우에도 매번 정해진 자리에 올 수 있는 최소값을 찾아야하기 때문에 성능이 좋지 않다.
 - 선택 정렬은 데이터가 중복된 경우 위치가 바뀔 수 있기 때문에 `Unstable`한 정렬이다.
 
+<div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Selection_sort_animation.gif" width="30%" />
 <img src="../images/selectionsort.gif" width="55%" />
+</div>
 
 ## 로직
 
