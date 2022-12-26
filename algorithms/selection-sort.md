@@ -10,7 +10,7 @@
 - 선택 정렬은 데이터가 중복된 경우 위치가 바뀔 수 있기 때문에 `Unstable`한 정렬이다.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Selection_sort_animation.gif" width="30%" />
-<img src="../images/selectionsort.gif" width="65%" />
+<img src="../images/selectionsort.gif" width="55%" />
 
 ## 로직
 
