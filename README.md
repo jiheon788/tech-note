@@ -14,6 +14,8 @@
 
 남에게 쉽게 설명할 수 있어야 저의 진짜 지식이라 생각합니다. 개인적으로 공부한 내용들을 정리하는 노트입니다.
 
+- 코드는 JS 기반입니다.
+
 ## INDEX
 
 ### 👨‍💻 Dev
@@ -49,6 +51,7 @@
 ### 🦧 Algorithms
 
 - [Permuation(순열)과 Combination(조합)](./algorithms/permuation-combination.md)
+- [선택 정렬(Selection Sort)](./algorithms/selection-sort.md)
 
 ### 💻 Operating System
 
@@ -65,4 +68,3 @@
 - [fe 면접 유용한 사이트 모음](https://xiubindev.tistory.com/120)
 - [취준생이 반드시 알아야 할 프론트엔드 지식들](https://github.com/ABizCho/Must-Know-About-Frontend)
 - [READY FOR TECH INTERVIEW](https://github.com/ABizCho/Ready-For-Tech-Interview)
-- (도서) "모두의 네트워크", 미즈구치 카츠야, 길벗
