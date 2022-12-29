@@ -26,7 +26,7 @@
 - [CI/CD 이란?](./dev/ci-cd.md)
 - [JWT와 쿠키, 세션, 로컬스토리지](./dev/jwt.md)
 
-### 🐛 JavaScript
+### 📝 JavaScript
 
 - [this가 자바스크립트에서 어떻게 작동하는가?](./javascript/this.md)
 - [hoisting 이란?](./javascript/hoisting.md)
@@ -49,7 +49,7 @@
 - [stack](./datastructure/stack.md)
 - [tree](./datastructure/tree.md)
 
-### 🦧 Algorithms
+### 💡 Algorithm
 
 - [Permuation(순열)과 Combination(조합)](./algorithms/permuation-combination.md)
 - [선택 정렬(Selection Sort)](./algorithms/selection-sort.md)
