@@ -62,10 +62,27 @@ const quickSort = (arr, left = 0, right = arr.length - 1) => {
 }
 ```
 
+## 퀵 정렬과 병합 정렬
+
+### 공통점
+
+- Divide and Conquer(분할-정복) 알고리즘
+- 점진적으로 탐색할 배열의 크기를 쪼개서 재귀함수에 넘겨준다.
+
+### 차이점
+
+- 병합정렬은 배열을 분할하는 방식이 반으로 쪼개는 것
+- 퀵 정렬은 크게 두 가지 분할 방법이 있다.
+
+- 퀵 정렬은 병합정렬과 달리 다른 메모리 공간을 사용하지 않는다. (오직 재귀 콜 스택을 위한 메모리만 사용됨, 그에 반면 병합정렬은 매 번 새로운 배열을 만들어 내므로 메모리 사용량이 더 큼)
+
+- 병합정렬은 stable 하지만, 퀵 정렬은 unstable 하다.
+
 #### Reference
 
 - [wikipedia](https://ko.wikipedia.org/wiki/%ED%80%B5_%EC%A0%95%EB%A0%AC)
 - [https://nyang-in.tistory.com/222](https://nyang-in.tistory.com/222)
+- [https://velog.io/@devjade](https://velog.io/@devjade/JavaScript%EB%A1%9C-%ED%80%B5%EC%A0%95%EB%A0%ACquick-sort%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 
 <div align="right">- CreatedAt 2022.12.28</div>
 
