@@ -47,9 +47,9 @@ const merge = (left, right) => {
 const mergeSort = (arr) => {
   if (arr.length === 1) return arr;
 
-  const middleIndex = Math.floor(arr.length / 2);
-  const left = arr.slice(0, middleIndex);
-  const right = arr.slice(middleIndex);
+  const pivot = Math.floor(arr.length / 2);
+  const left = arr.slice(0, pivot);
+  const right = arr.slice(pivot);
 
   return merge(mergeSort(left), mergeSort(right));
 }
