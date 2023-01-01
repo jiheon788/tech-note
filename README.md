@@ -54,6 +54,7 @@
 - [Permuation(순열)과 Combination(조합)](./algorithms/permuation-combination.md)
 - [선택 정렬(Selection Sort)](./algorithms/selection-sort.md)
 - [버블 정렬(Bubble Sort)](./algorithms/bubble-sort.md)
+- [병합 정렬(Merge Sort)](./algorithms/merge-sort.md)
 
 ### 💻 Operating System
 
