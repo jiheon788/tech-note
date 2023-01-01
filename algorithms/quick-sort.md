@@ -84,7 +84,7 @@ const quickSort = (arr, left = 0, right = arr.length - 1) => {
 - [https://nyang-in.tistory.com/222](https://nyang-in.tistory.com/222)
 - [https://velog.io/@devjade](https://velog.io/@devjade/JavaScript%EB%A1%9C-%ED%80%B5%EC%A0%95%EB%A0%ACquick-sort%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 
-<div align="right">- CreatedAt 2022.12.28</div>
+<div align="right">- CreatedAt 2023.01.01</div>
 
 ---
 

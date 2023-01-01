@@ -57,7 +57,7 @@
 - [병합 정렬(Merge Sort)](./algorithms/merge-sort.md)
 - [삽입 정렬(Insertion Sort)](./algorithms/insertion-sort.md)
 - [퀵 정렬(Quick Sort)](./algorithms/quick-sort.md)
-- [힙 정렬(Heap Sort)]()
+- [힙 정렬(Heap Sort)](./algorithms/heap-sort.md)
 
 ### 💻 Operating System
 
