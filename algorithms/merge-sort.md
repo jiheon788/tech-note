@@ -61,7 +61,7 @@ const mergeSort = (arr) => {
 - [wikipedia](https://ko.wikipedia.org/wiki/%ED%95%A9%EB%B3%91_%EC%A0%95%EB%A0%AC)
 - [https://jun-choi-4928.medium.com](https://jun-choi-4928.medium.com/javascript%EB%A1%9C-merge-sort-%EB%B3%91%ED%95%A9%EC%A0%95%EB%A0%AC-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-c13c3eee6570)
 
-<div align="right">- CreatedAt 2022.12.28</div>
+<div align="right">- CreatedAt 2023.01.01</div>
 
 ---
 
