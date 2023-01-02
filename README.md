@@ -43,12 +43,12 @@
 
 ### 💾 Data Structure
 
-- [linked-list](./datastructure/linked-list.md)
-- [doubly-linked-list](./datastructure/doubly-linked-list.md)
-- [hash-table](./datastructure/hash-table.md)
-- [queue](./datastructure/queue.md)
-- [stack](./datastructure/stack.md)
-- [tree](./datastructure/tree.md)
+- [Linked-list](./datastructure/linked-list.md)
+- [Doubly-linked-list](./datastructure/doubly-linked-list.md)
+- [Hash-table](./datastructure/hash-table.md)
+- [Queue](./datastructure/queue.md)
+- [Stack](./datastructure/stack.md)
+- [Tree](./datastructure/tree.md)
 
 ### 💡 Algorithm
 

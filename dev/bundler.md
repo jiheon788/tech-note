@@ -1,5 +1,7 @@
 # 번들러(Bundler)란?
 
+- `번들러`에 대하여 알아본 후, [웹팩 핸드북](https://joshua1988.github.io/webpack-guide/)을 참고해 [웹팩 실습 진행](https://github.com/jiheon788/webpack-prac)
+
 ## 탄생 배경
 
 - 웹 초창기에는 웹사이트 규모가 작고 유지보수가 쉬웠다.
