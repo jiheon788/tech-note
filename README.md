@@ -59,6 +59,7 @@
 - [삽입 정렬(Insertion Sort)](./algorithms/insertion-sort.md)
 - [퀵 정렬(Quick Sort)](./algorithms/quick-sort.md)
 - [힙 정렬(Heap Sort)](./algorithms/heap-sort.md)
+- [BFS & DFS](./algorithms/BFS%20%26%20DFS.md)
 
 ### 💻 Operating System
 
