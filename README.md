@@ -33,6 +33,7 @@
 - [hoisting 이란?](./javascript/hoisting.md)
 - [Event Loop 이란?](./javascript/event-loop.md)
 - [분해할당 이란?](./javascript/destructuring-assignment.md)
+- [AJAX 란?](./javascript/AJAX.md)
 
 ### 🌐 Network
 
