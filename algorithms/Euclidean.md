@@ -40,11 +40,11 @@ $$최소 공배수 = 두 자연수의 곱 / 최대 공약수$$
 const getGCD = (a, b) => {
   let remainder = a % b;
   if (remainder === 0) return b;
-  return euclidean(b, remainder);
+  return getGCD(b, remainder);
 };
 
 // 최소 공배수 = 두 자연수의 곱 / 최대 공약수
-const getLCM = (a, b) => a * b / getGCD(a, b)
+const getLCM = (a, b) => (a * b) / getGCD(a, b);
 ```
 
 #### Reference
