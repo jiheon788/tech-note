@@ -61,6 +61,7 @@
 - [퀵 정렬(Quick Sort)](./algorithms/quick-sort.md)
 - [힙 정렬(Heap Sort)](./algorithms/heap-sort.md)
 - [BFS & DFS](./algorithms/BFS%20%26%20DFS.md)
+- [유클리드 호제법(Euclidean Algorithm)](./algorithms/Euclidean.md)
 
 ### 💻 Operating System
 
