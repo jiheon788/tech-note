@@ -21,14 +21,18 @@
 
 ### 👨‍💻 Dev
 
-- [Node.js란?](./dev/nodejs.md)
 - [프론트엔드의 아키텍쳐?](./dev/architecture.md)
 - [CI/CD 이란?](./dev/ci-cd.md)
 - [JWT와 쿠키, 세션, 로컬스토리지](./dev/jwt.md)
 - [번들러(Bundler)란?](./dev/bundler.md)
 
+### 🌏 Web
+
+- [웹 표준이란?](./web/Web%20Standards.md)
+
 ### 📝 JavaScript
 
+- [Node.js란?](./javascript/nodejs.md)
 - [this가 자바스크립트에서 어떻게 작동하는가?](./javascript/this.md)
 - [hoisting 이란?](./javascript/hoisting.md)
 - [Event Loop 이란?](./javascript/event-loop.md)
@@ -62,8 +66,6 @@
 - [힙 정렬(Heap Sort)](./algorithms/heap-sort.md)
 - [BFS & DFS](./algorithms/BFS%20%26%20DFS.md)
 - [유클리드 호제법(Euclidean Algorithm)](./algorithms/Euclidean.md)
-
-### 💻 Operating System
 
 ### 🏠 Database
 
