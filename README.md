@@ -4,6 +4,11 @@
     If you can`t explain it simply, you don`t understand it well enough.<br>
     - Albert Einstein (1879 - 1955)
 </blockquote>
+<br>
+
+[![SINCE](https://img.shields.io/badge/Since-2022.12.01-red)](https://github.com/jiheon788/tech-note)
+[![LICENSE](https://img.shields.io/badge/license-MIT-yellowgreen)](https://github.com/jiheon788/tech-note/blob/master/License)
+
 </div>
 <br>
 
@@ -14,6 +19,7 @@
 남에게 쉽게 설명할 수 있어야 저의 진짜 지식이라 생각합니다. 개인적으로 공부한 내용들을 정리하는 노트입니다.
 
 - 코드는 JS 기반입니다.
+- 잘못된 내용은 [이슈](https://github.com/jiheon788/tech-note/issues)와 [PR](https://github.com/jiheon788/tech-note/pulls)로 알려주세요.
 
 ---
 
@@ -83,6 +89,8 @@
 - [fe 면접 유용한 사이트 모음](https://xiubindev.tistory.com/120)
 - [취준생이 반드시 알아야 할 프론트엔드 지식들](https://github.com/ABizCho/Must-Know-About-Frontend)
 - [READY FOR TECH INTERVIEW](https://github.com/ABizCho/Ready-For-Tech-Interview)
+
+---
 
 ## License
 
