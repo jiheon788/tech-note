@@ -19,7 +19,6 @@
 남에게 쉽게 설명할 수 있어야 저의 진짜 지식이라 생각합니다. 개인적으로 공부한 내용들을 정리하는 노트입니다.
 
 - 코드는 JS 기반입니다.
-- 잘못된 내용은 [이슈](https://github.com/jiheon788/tech-note/issues)와 [PR](https://github.com/jiheon788/tech-note/pulls)로 알려주세요.
 
 ---
 
@@ -31,6 +30,7 @@
 - [CI/CD 이란?](./dev/ci-cd.md)
 - [JWT와 쿠키, 세션, 로컬스토리지](./dev/jwt.md)
 - [번들러(Bundler)란?](./dev/bundler.md)
+- [OAuth란?](./dev/OAuth.md)
 
 ### 🌏 Web
 
