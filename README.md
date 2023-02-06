@@ -12,7 +12,9 @@
 </div>
 <br>
 
-# 📖 TECH - NOTE
+# Tech Note
+
+> 기술 및 CS 개인 공부 정리 노트
 
 ## INTRODUCTION
 
