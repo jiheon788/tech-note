@@ -63,6 +63,7 @@
 - [Queue](./datastructure/queue.md)
 - [Stack](./datastructure/stack.md)
 - [Tree](./datastructure/tree.md)
+- [Graph](./datastructure/graph.md)
 
 ### 💡 Algorithm
 
