@@ -29,10 +29,10 @@
 
 ## 소스 코드
 
-```JavaScript
+```javascript
 class Heap {
   #heap;
-  #type = 'min'; // 최대, 최소 구분
+  #type = "min"; // 최대, 최소 구분
   constructor(type) {
     this.#heap = [];
     this.#type = type;
@@ -41,16 +41,16 @@ class Heap {
   // 부모 정점
   parentIndex = (index) => Math.floor((index - 1) / 2);
   // 왼쪽 자식
-  leftChildIndex = (index) => (2 * index + 1);
+  leftChildIndex = (index) => 2 * index + 1;
   // 오른쪽 자식
-  rightChildIndex = (index) => (2 * index + 2);
+  rightChildIndex = (index) => 2 * index + 2;
 
   // 위치 변경
   swap = (a, b) => {
     let temp = this.#heap[a];
     this.#heap[a] = this.#heap[b];
     this.#heap[b] = temp;
-  }
+  };
 
   // 힙구조로 만들기
   insert = (arr) => {
@@ -60,14 +60,14 @@ class Heap {
       var parent = this.parentIndex(index);
 
       // 최대힙 > 큰 값이 root
-      if (this.#type === 'max') {
-          while (this.#heap[parent] < this.#heap[index]) {
-              this.swap(parent, index);
-              index = this.parentIndex(index);
-              parent = this.parentIndex(index);
-          }
+      if (this.#type === "max") {
+        while (this.#heap[parent] < this.#heap[index]) {
+          this.swap(parent, index);
+          index = this.parentIndex(index);
+          parent = this.parentIndex(index);
+        }
       }
-        // 최소힙 > 작은 값이 root 또는 기본값
+      // 최소힙 > 작은 값이 root 또는 기본값
       else {
         while (this.#heap[parent] > this.#heap[index]) {
           this.swap(parent, index);
@@ -76,7 +76,7 @@ class Heap {
         }
       }
     }
-  }
+  };
 
   delete = () => {
     // 가장 마지막 값을 처음으로 이동
@@ -89,14 +89,14 @@ class Heap {
     var rightChild = this.rightChildIndex(index);
 
     // 최대힙 > 큰 값이 root
-    if (this.#type === 'max') {
+    if (this.#type === "max") {
       while (
         this.#heap[leftChild] > this.#heap[index] ||
         this.#heap[rightChild] > this.#heap[index]
       ) {
         var min = leftChild;
         if (this.#heap[rightChild] > this.#heap[min]) {
-          min = rightChild
+          min = rightChild;
         }
         this.swap(min, index);
         index = min;
@@ -112,7 +112,7 @@ class Heap {
       ) {
         var min = leftChild;
         if (this.#heap[rightChild] < this.#heap[min]) {
-          min = rightChild
+          min = rightChild;
         }
         this.swap(min, index);
         index = min;
@@ -122,9 +122,8 @@ class Heap {
     }
 
     return item;
-  }
+  };
 }
-
 
 // 힙 정렬
 const heapSort = (arr, type) => {
@@ -135,14 +134,14 @@ const heapSort = (arr, type) => {
     result.push(heap.delete());
   }
   return result;
-}
+};
 
 // let arr = [2, 1, 8, 4, 6, 7, 3, 0, 9, 5];
 // console.log(heapSort(arr, 'min'));
 // console.log(heapSort(arr, 'max'));
 ```
 
-```JavaScript
+```javascript
 const heapSort = (arr) => {
   for (let i = arr.length - 1; i >= 0; i--) {
     arr = heapify(arr, i);
@@ -155,7 +154,7 @@ const heapSort = (arr) => {
   }
 
   return arr;
-}
+};
 
 const heapify = (arr, lastIndex) => {
   let index = parseInt(lastIndex / 2) - 1;
@@ -176,7 +175,7 @@ const heapify = (arr, lastIndex) => {
   }
 
   return arr;
-}
+};
 ```
 
 #### Reference

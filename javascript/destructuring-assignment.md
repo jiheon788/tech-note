@@ -4,9 +4,9 @@
 
 - 배열 분해할당
 
-```JavaScript
+```javascript
 // 변수 할당.
-const foo = ['one', 'two', 'three'];
+const foo = ["one", "two", "three"];
 
 const [one, two, three] = foo;
 console.log(one); // "one"
@@ -24,10 +24,10 @@ console.log(b); // 1
 
 - 객체 분해할당
 
-```JavaScript
+```javascript
 // 변수 할당.
-const o = {p: 42, q: true};
-const {p, q} = o;
+const o = { p: 42, q: true };
+const { p, q } = o;
 
 console.log(p); // 42
 console.log(q); // true

@@ -29,8 +29,8 @@
 
 ## 소스 코드
 
-```JavaScript
-const selectionSort  = (arr) => {
+```javascript
+const selectionSort = (arr) => {
   for (let i = 0; i < arr.length - 1; i++) {
     let minIndex = i;
     for (let j = i + 1; j < arr.length; j++) {
@@ -40,12 +40,12 @@ const selectionSort  = (arr) => {
     }
 
     if (minIndex !== i) {
-      [arr[i], arr[minIndex]] = [arr[minIndex], arr[i]]
+      [arr[i], arr[minIndex]] = [arr[minIndex], arr[i]];
     }
   }
 
   return arr;
-}
+};
 ```
 
 #### Reference

@@ -6,7 +6,7 @@
 
 - e.g. 접시쌓기
 
-```JavaScript
+```javascript
 const stack = [];
 
 stack.push(1);

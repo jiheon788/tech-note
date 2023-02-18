@@ -11,7 +11,7 @@
 - a,b,c,d 4개의 문자로 3글자의 단어 만드는 방법
   $$4P3 = 4 * 3 * 2 = 24$$
 
-```JavaScript
+```javascript
 // 순열
 const getPermutation = (arr, selectNum) => {
   let result = [];
@@ -26,8 +26,7 @@ const getPermutation = (arr, selectNum) => {
   });
 
   return result;
-}
-
+};
 ```
 
 ## Combination
@@ -36,7 +35,7 @@ const getPermutation = (arr, selectNum) => {
 - a,b,c,d 4개의 문자로 3글자의 단어 만드는 방법
   $$4P3 / 3! = 4 * 3 * 2  / 3 * 2 = 24 / 6 = 4$$
 
-```JavaScript
+```javascript
 // 조합
 const getCombination = (arr, selectNum) => {
   const result = [];
@@ -50,7 +49,7 @@ const getCombination = (arr, selectNum) => {
   });
 
   return result;
-}
+};
 ```
 
 #### Reference

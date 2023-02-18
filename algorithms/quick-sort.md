@@ -27,7 +27,7 @@
 
 ## 소스 코드
 
-```JavaScript
+```javascript
 const divide = (arr, left, right, pivot) => {
   while (left <= right) {
     while (arr[left] < pivot) {
@@ -46,7 +46,7 @@ const divide = (arr, left, right, pivot) => {
   }
 
   return left;
-}
+};
 
 const quickSort = (arr, left = 0, right = arr.length - 1) => {
   if (left >= right) {
@@ -59,7 +59,7 @@ const quickSort = (arr, left = 0, right = arr.length - 1) => {
   quickSort(arr, partition, right);
 
   return arr;
-}
+};
 ```
 
 ## 퀵 정렬과 병합 정렬

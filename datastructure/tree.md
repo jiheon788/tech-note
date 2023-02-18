@@ -6,7 +6,7 @@
 
 - 연결리스트: left, right를 이용하여 자식 노드를 참조하도록 구현한다.
 
-```JavaScript
+```javascript
 // 배열을 이용한 방법
 /*        5
  *     /    \
@@ -46,7 +46,7 @@ root.right = right;
 
 ## Traversal (순회)
 
-```JavaScript
+```javascript
 function traversal(node) {
   if (node === null) return;
 

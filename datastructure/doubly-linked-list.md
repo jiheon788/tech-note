@@ -4,7 +4,7 @@
 
 이중 연결 리스트(Double Linked List)는 `prev`만 추가해서 양방향으로 참조하도록 구현한다.
 
-```JavaScript
+```javascript
 function Node(val) {
   this.val = val;
   this.next = null;

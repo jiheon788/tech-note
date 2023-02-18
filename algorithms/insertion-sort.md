@@ -27,21 +27,20 @@
 
 ## 소스 코드
 
-```JavaScript
+```javascript
 const insertionSort = (arr) => {
   for (let i = 1; i < arr.length; i++) {
     let temp = arr[i];
     let index = i;
 
-    while (index > 0 && temp < arr[index -1 ]) {
+    while (index > 0 && temp < arr[index - 1]) {
       arr[index] = arr[index - 1];
       index--;
     }
     arr[index] = temp;
   }
   console.log(arr);
-}
-
+};
 ```
 
 #### Reference
