@@ -65,6 +65,7 @@
 - [Tree](./datastructure/tree.md)
 - [Graph](./datastructure/graph.md)
 - [Heap](./datastructure/Heap.md)
+- [Trie](./datastructure/Trie.md)
 
 ### 💡 Algorithm
 
