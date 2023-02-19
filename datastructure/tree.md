@@ -58,10 +58,6 @@ function traversal(node) {
 }
 ```
 
-## Binary Search Tree
-
-![binary-search-tree](../images/binary-search-tree.jpg)
-
 ## AVL
 
 ![binary-search-tree](../images/avl.gif)

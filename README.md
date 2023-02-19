@@ -66,6 +66,7 @@
 - [Graph](./datastructure/graph.md)
 - [Heap](./datastructure/Heap.md)
 - [Trie](./datastructure/Trie.md)
+- [Binary Search](./datastructure/Binary%20Search.md)
 
 ### 💡 Algorithm
 
