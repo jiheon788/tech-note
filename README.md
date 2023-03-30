@@ -39,6 +39,10 @@
 - [웹 표준(Web Standards)이란?](./web/WebStandards.md)
 - [웹 접근성(Web Accessibility)이란?](./web/WebAccessibility.md)
 
+### 🏗 HTML/CSS
+
+- [Doctype 이란?](./publish/DOCTYPE.md)
+
 ### 📝 JavaScript
 
 - [Node.js란?](./javascript/nodejs.md)
