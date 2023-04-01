@@ -42,7 +42,7 @@
 ### 🏗 HTML/CSS
 
 - [Doctype 이란?](./htmlcss/DOCTYPE.md)
-- [float를 clear하는 방법]()
+- [float를 clear하는 방법](./htmlcss/FLOAT.md)
 
 ### 📝 JavaScript
 
