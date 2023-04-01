@@ -41,7 +41,8 @@
 
 ### 🏗 HTML/CSS
 
-- [Doctype 이란?](./publish/DOCTYPE.md)
+- [Doctype 이란?](./htmlcss/DOCTYPE.md)
+- [float를 clear하는 방법]()
 
 ### 📝 JavaScript
 
