@@ -38,6 +38,7 @@
 
 - [웹 표준(Web Standards)이란?](./web/WebStandards.md)
 - [웹 접근성(Web Accessibility)이란?](./web/WebAccessibility.md)
+- [반응형 vs 적응형](./web/RESPONSIVE_VS_ADAPTIVE.md)
 
 ### 🏗 HTML/CSS
 
