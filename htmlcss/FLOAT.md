@@ -35,3 +35,11 @@ float된 요소의 부모태그::after {
 >
 > 가상요소는 가상의 요소를 만들고 내용을 넣어 출력하겠다는 것이다.  
 > e.g. `::after`, `::before`
+
+#### Reference
+
+- [https://developer.mozilla.org/ko/docs/Web/CSS/float](https://developer.mozilla.org/ko/docs/Web/CSS/float)
+
+---
+
+[Back](../README.md)
