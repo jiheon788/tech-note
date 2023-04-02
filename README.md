@@ -54,6 +54,7 @@
 - [Event Loop 이란?](./javascript/event-loop.md)
 - [분해할당 이란?](./javascript/destructuring-assignment.md)
 - [AJAX 란?](./javascript/AJAX.md)
+- [실행 컨텍스트란?](./javascript/EXEXCUTION_CONTEXT.md)
 
 ### 🌐 Network
 
@@ -91,17 +92,7 @@
 
 - [데이터베이스 용어정리](./database/terminology.md)
 
----
-
-## 🔍 REFERENCE
-
-- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
-- [Front End Interview Handbook: JavaScript 질문](https://www.frontendinterviewhandbook.com/kr/javascript-questions)
-- [Hayeon Dev Blog: 프론트엔드 취준 기록](https://hayeondev.gatsbyjs.io/220610-2022-recruit/)
-- [프론트엔드 면접 문제 은행](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/korean/)
-- [fe 면접 유용한 사이트 모음](https://xiubindev.tistory.com/120)
-- [취준생이 반드시 알아야 할 프론트엔드 지식들](https://github.com/ABizCho/Must-Know-About-Frontend)
-- [READY FOR TECH INTERVIEW](https://github.com/ABizCho/Ready-For-Tech-Interview)
+<br/>
 
 ---
 
