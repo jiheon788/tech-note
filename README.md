@@ -55,6 +55,7 @@
 - [분해할당 이란?](./javascript/destructuring-assignment.md)
 - [AJAX 란?](./javascript/AJAX.md)
 - [실행 컨텍스트란?](./javascript/EXEXCUTION_CONTEXT.md)
+- [클로저란?](./javascript/CLOSURES.md)
 
 ### 🌐 Network
 
