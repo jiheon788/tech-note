@@ -29,22 +29,21 @@ baz();
 
 ## Callback Queue
 
-비동기적으로 실행된 `콜백함수`가 보관되는 영역이다. (FIFO)
+비동기적으로 실행된 `콜백함수`가 보관되는 영역이다. (FIFO) 콜백큐는 세가지 종류로 이루어져 있고, `Microtask Queue` -> `Animation Frame` -> `Task Queue` 순으로 실행된다.
+
+- Microtask Queue: `Promise`, `async callback`
+- Animation Frames: `requestAnimationFrame`
+- Task Queue: `setTimeout`, `setInterval`
 
 ## Event Loop
 
 이벤트 루프는 `콜스택`과 `콜백큐`의 상태를 체크하여, 콜스택이 빈상태일때, 콜백큐의 첫번째 콜백을 콜스택으로 밀어 넣는다. 이러한 반복적인 행동을 `틱(tick)`이라 부른다.
-
-<img src="./../images/eventloop.png" width="80%" alt="eventloop"/>
 
 #### Reference
 
 - [Front End Interview Handbook: JavaScript 질문](https://www.frontendinterviewhandbook.com/kr/javascript-questions)
 - [https://velog.io/@thms200/Event-Loop](https://velog.io/@thms200/Event-Loop-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84)
 - [JavaScript Visualized: Event Loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
-
-<div align="right">- CreatedAt 2022.12.04</div>
-<div align="right">- UpdatedAt 2022.12.15</div>
 
 ---
 
