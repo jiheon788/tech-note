@@ -33,6 +33,7 @@
 - [JWT와 쿠키, 세션, 로컬스토리지](./dev/jwt.md)
 - [번들러(Bundler)란?](./dev/bundler.md)
 - [OAuth란?](./dev/OAuth.md)
+- [SOLID원칙이란?](./dev/SOLID.md)
 
 ### 🌏 Web
 
