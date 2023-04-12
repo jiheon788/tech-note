@@ -59,6 +59,10 @@
 - [클로저란?](./javascript/CLOSURES.md)
 - [불변객체란?](./javascript/IMMUTABLE_OBJECT.md)
 
+### 🌀 React
+
+- [제어 vs 비제어 컴포넌트](./react/CONTROLLED_COMPONENT.md)
+
 ### 🌐 Network
 
 - [OSI 7 Layer & TCP/IP 4 Layer?](./network/osi-7-layer-tcpip-4-layer.md)
