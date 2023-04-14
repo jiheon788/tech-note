@@ -59,9 +59,10 @@
 - [클로저란?](./javascript/CLOSURES.md)
 - [불변객체란?](./javascript/IMMUTABLE_OBJECT.md)
 
-### 🌀 React
+### 🧪 React
 
 - [제어 vs 비제어 컴포넌트](./react/CONTROLLED_COMPONENT.md)
+- [React LifeCycle(생명주기)](./react/LIFE_CYCLE.md)
 
 ### 🌐 Network
 
