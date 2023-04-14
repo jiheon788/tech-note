@@ -63,6 +63,7 @@
 
 - [제어 vs 비제어 컴포넌트](./react/CONTROLLED_COMPONENT.md)
 - [React LifeCycle(생명주기)](./react/LIFE_CYCLE.md)
+- [리액트에서 Key의 역할](./react/KEY.md)
 
 ### 🌐 Network
 
