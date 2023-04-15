@@ -12,7 +12,7 @@
 </div>
 <br>
 
-# Tech Archive
+# Tech Note
 
 > 남에게 쉽게 설명할 수 있어야 저의 진짜 지식이라 생각합니다. 공부한 내용들을 아카이빙하는 레포입니다.
 
@@ -64,6 +64,7 @@
 - [제어 vs 비제어 컴포넌트](./react/CONTROLLED_COMPONENT.md)
 - [React LifeCycle(생명주기)](./react/LIFE_CYCLE.md)
 - [리액트에서 Key의 역할](./react/KEY.md)
+- [Fiber](./react/KEY.md)
 
 ### 🌐 Network
 
