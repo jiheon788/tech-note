@@ -100,6 +100,10 @@
 - [BFS & DFS](./algorithms/BFS%20%26%20DFS.md)
 - [유클리드 호제법(Euclidean Algorithm)](./algorithms/Euclidean.md)
 
+### 🖥️ Computer
+
+- [Process & Thread](./computer/process_thread.md)
+
 ### 🏠 Database
 
 - [데이터베이스 용어정리](./database/terminology.md)
