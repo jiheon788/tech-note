@@ -75,6 +75,7 @@
 - [HTTP & HTTPS](./network/http-https.md)
 - [CDN이란?](./network/cdn.md)
 - [REST API란?](./network/rest-api.md)
+- [HTTP 1.1 vs HTTP 2.0 vs HTTP 3.0](./network/http-history.md)
 
 ### 💾 Data Structure
 
