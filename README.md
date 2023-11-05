@@ -49,6 +49,7 @@
 - [float를 clear하는 방법](./htmlcss/FLOAT.md)
 - [CSS 방법론이란?](./htmlcss/CSS_METHODOLOGY.md)
 - [CSS Box Model](./htmlcss/boxmodel.md)
+- [시맨틱 태그(Semantic tags)](./htmlcss/semantic-tag.md)
 
 ### 📝 JavaScript
 
