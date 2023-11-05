@@ -103,6 +103,7 @@
 - [BFS & DFS](./algorithms/BFS%20%26%20DFS.md)
 - [유클리드 호제법(Euclidean Algorithm)](./algorithms/Euclidean.md)
 - [Dynamic Programming](./algorithms/Dynamic-Programming.md)
+- [Greedy Algorithm](./algorithms/Greedy%20Algorithm.md)
 
 ### 🖥️ Computer
 
