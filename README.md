@@ -62,6 +62,7 @@
 - [실행 컨텍스트란?](./javascript/EXEXCUTION_CONTEXT.md)
 - [클로저란?](./javascript/CLOSURES.md)
 - [불변객체란?](./javascript/IMMUTABLE_OBJECT.md)
+- [메모리 누수 (Memory Leak)](./javascript/Memory%20Leak.md)
 
 ### 🧪 React
 
