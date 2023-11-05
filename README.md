@@ -63,6 +63,7 @@
 - [클로저란?](./javascript/CLOSURES.md)
 - [불변객체란?](./javascript/IMMUTABLE_OBJECT.md)
 - [메모리 누수 (Memory Leak)](./javascript/Memory%20Leak.md)
+- [이벤트 위임(Event Delegation)](./javascript/Event%20Delegation.md)
 
 ### 🧪 React
 
