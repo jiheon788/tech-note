@@ -4,7 +4,7 @@ const path = require('path');
 let folderAndFileName = process.argv[2];
 
 if (!folderAndFileName) {
-  console.error('Usage: node app.js folder/filename');
+  console.error('Error: Invalid Factor Format (see Readme)');
   process.exit(1);
 }
 
