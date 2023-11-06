@@ -22,8 +22,6 @@
 
 <br>
 
----
-
 ## INDEX
 
 ### 👨‍💻 Dev
@@ -120,7 +118,15 @@
 
 <br/>
 
----
+## Usage
+
+```bash
+npm run write -- "{{folderName}}/{{fileName}}"
+
+# npm run write -- "network/HTTP vs HTTPS"
+```
+
+And then, a new note is created on the path. (`./network/HTTP vs HTTPS.md`)
 
 ## License
 

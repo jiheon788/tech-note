@@ -1,0 +1,12 @@
+{
+  "name": "tech-note",
+  "version": "1.0.0",
+  "description": "Personal Study Summary of Technology and Computer Science",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "write": "node ./.scripts/writeNote.js"
+  },
+  "author": "harrypark.dev@gmail.com",
+  "license": "MIT"
+}
