@@ -42,6 +42,7 @@
 - [반응형 vs 적응형](./web/RESPONSIVE_VS_ADAPTIVE.md)
 - [Web Security](./web/WEBSECURITY.md)
 - [PWA](./web/PWA.md)
+- [브라우저 렌더링 원리](./web/Browser%20Render.md)
 
 ### 🏗 HTML/CSS
 
