@@ -28,10 +28,11 @@
 
 - [프론트엔드의 아키텍쳐?](./dev/architecture.md)
 - [CI/CD 이란?](./dev/ci-cd.md)
-- [JWT와 쿠키, 세션, 로컬스토리지](./dev/jwt.md)
+- [JWT (JSON Web Token)](./dev/jwt.md)
 - [번들러(Bundler)란?](./dev/bundler.md)
 - [OAuth란?](./dev/OAuth.md)
 - [SOLID원칙이란?](./dev/SOLID.md)
+- [Cookies vs Session Storage vs Local Storage](./dev/Cookies%20vs%20Session%20Storage%20vs%20Local%20Storage.md)
 
 ### 🌏 Web
 
