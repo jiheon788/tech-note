@@ -32,7 +32,7 @@
 - [번들러(Bundler)란?](./dev/bundler.md)
 - [OAuth란?](./dev/OAuth.md)
 - [SOLID원칙이란?](./dev/SOLID.md)
-- [Cookies vs Session Storage vs Local Storage](./dev/Cookies%20vs%20Session%20Storage%20vs%20Local%20Storage.md)
+- [횡단 관심사(Cross-Cutting Concerns)](<./dev/횡단%20관심사(Cross-Cutting%20Concerns).md>)
 
 ### 🌏 Web
 
@@ -41,6 +41,7 @@
 - [반응형 vs 적응형](./web/RESPONSIVE_VS_ADAPTIVE.md)
 - [Web Security](./web/WEBSECURITY.md)
 - [PWA](./web/PWA.md)
+- [Cookies vs Session Storage vs Local Storage](./web/Cookies%20vs%20Session%20Storage%20vs%20Local%20Storage.md)
 - [브라우저 렌더링 원리](./web/Browser%20Render.md)
 
 ### 🏗 HTML/CSS
