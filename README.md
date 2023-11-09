@@ -44,6 +44,7 @@
 - [Cookies vs Session Storage vs Local Storage](./web/Cookies%20vs%20Session%20Storage%20vs%20Local%20Storage.md)
 - [브라우저 렌더링 원리](./web/Browser%20Render.md)
 - [크로스 브라우징(Cross-Browsing)](<./web/크로스%20브라우징(Cross-Browsing).md>)
+- [SSR vs CSR vs SSG vs ISR](./web/SSR%20vs%20CSR%20vs%20SSG%20vs%20ISR.md)
 
 ### 🏗 HTML/CSS
 
