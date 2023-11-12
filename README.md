@@ -118,6 +118,7 @@
 
 - [Process & Thread](./computer/process_thread.md)
 - [Cloud (클라우드 컴퓨팅)](<./computer/Cloud%20(클라우드%20컴퓨팅).md>)
+- [Linux System](./computer/Linux%20System.md)
 
 ### 🏠 Database
 
