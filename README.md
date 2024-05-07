@@ -18,7 +18,6 @@
 
 - 코드는 JS 기반입니다.
 - 아래 인덱스에서 원하시는 페이지로 이동 가능합니다.
-- 개인 공부를 기록하다보니 틀린 정보가 있을 수 있습니다. 잘못된 부분은 [이슈](https://github.com/jiheon788/tech-note/issues)로 알려주세요. 🙇‍♂️
 
 <br>
 
@@ -113,6 +112,7 @@
 - [유클리드 호제법(Euclidean Algorithm)](./algorithms/Euclidean.md)
 - [Dynamic Programming](./algorithms/Dynamic-Programming.md)
 - [Greedy Algorithm](./algorithms/Greedy%20Algorithm.md)
+- [소수찾기](./algorithms/소수찾기.md)
 
 ### 🖥️ Computer
 
