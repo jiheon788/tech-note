@@ -113,6 +113,7 @@
 - [Dynamic Programming](./algorithms/Dynamic-Programming.md)
 - [Greedy Algorithm](./algorithms/Greedy%20Algorithm.md)
 - [소수찾기](./algorithms/소수찾기.md)
+- [트리 순회](./algorithms/트리%20순회.md)
 
 ### 🖥️ Computer
 
