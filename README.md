@@ -84,6 +84,7 @@
 - [REST API란?](./network/rest-api.md)
 - [HTTP 1.1 vs HTTP 2.0 vs HTTP 3.0](./network/http-history.md)
 - [주소창에 www.naver.com을 입력하면 생기는 일](./network/주소창에%20www.naver.com을%20입력하면%20생기는%20일.md)
+- [GraphQL](./network/graphql.md)
 
 ### 💾 Data Structure
 
