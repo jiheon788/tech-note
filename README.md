@@ -68,6 +68,7 @@
 - [메모리 누수 (Memory Leak)](./javascript/Memory%20Leak.md)
 - [이벤트 위임(Event Delegation)](./javascript/Event%20Delegation.md)
 - [이벤트 버블링(Bubbling)과 캡처링(Capturing)](./javascript/Bubbling-Capturing.md)
+- [ESM vs CJS](./javascript/esmcjs.md)
 
 ### 🧪 React
 
