@@ -32,6 +32,7 @@
 - [OAuth란?](./dev/OAuth.md)
 - [SOLID원칙이란?](./dev/SOLID.md)
 - [횡단 관심사(Cross-Cutting Concerns)](<./dev/횡단%20관심사(Cross-Cutting%20Concerns).md>)
+- [MFA (Micro Frontend Architecture)](./dev/MFA.md)
 
 ### 🌏 Web
 
