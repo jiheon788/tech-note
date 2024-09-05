@@ -78,6 +78,7 @@
 - [Fiber](./react/FIBER.md)
 - [리액트에서의 SEO 최적화](./react/리액트에서의%20SEO%20최적화.md)
 - [리액트의 불변성](./react/리액트의%20불변성.md)
+- [StrictMode와 Concurrent Rendering](./react/StrictMode와%20Concurrent%20Rendering.md)
 
 ### 🌐 Network
 
