@@ -5,25 +5,18 @@
 링크드 리스트는 데이터 요소의 선형 집합이다. 자바스크립트에서는 객체를 참조하는 방식으로 구현 가능하다.
 
 ```javascript
-class Node {
-  constuctor(vlaue) {
-    this.value = value;
-    this.next = null;
-  }
-}
-
-class SinglyLinkedList {
-  constuctor() {
+class LinkedList {
+  constructor() {
     this.head = null;
     this.tail = null;
   }
 
   find(value) {
     let currentNode = this.head;
-
-    while (currentNode !== value) {
+    while (currentNode !== null && currentNode.value !== value) {
       currentNode = currentNode.next;
     }
+
     return currentNode;
   }
 
@@ -40,19 +33,45 @@ class SinglyLinkedList {
   }
 
   insert(node, newValue) {
+    if (node === null) {
+      return;
+    }
+
     const newNode = new Node(newValue);
     newNode.next = node.next;
-    newNode.next = newNode;
+    node.next = newNode;
+
+    if (newNode.next === null) {
+      this.tail = newNode;
+    }
   }
 
   remove(value) {
+    if (this.head === null) {
+      return;
+    }
+
+    if (this.head.value === value) {
+      this.head = this.head.next;
+
+      if (this.head === null) {
+        this.tail = null;
+      }
+      return;
+    }
+
     let prevNode = this.head;
-    while (prevNode.next.value !== value) {
+
+    while (prevNode.next !== null && prevNode.next.value !== value) {
       prevNode = prevNode.next;
     }
 
     if (prevNode.next !== null) {
       prevNode.next = prevNode.next.next;
+
+      if (prevNode.next === null) {
+        this.tail = prevNode;
+      }
     }
   }
 }
